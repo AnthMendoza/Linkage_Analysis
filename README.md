@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Linkage Analysis
 
 Python-based linkage analysis and visualization.
